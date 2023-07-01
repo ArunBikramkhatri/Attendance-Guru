@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
 
-@CrossOrigin(origins = "http://localhost:5173", allowCredentials = "true")
+@CrossOrigin(origins = "https://ag.rikeshsilwalkhatri.com.np", allowCredentials = "true")
 @RestController
 public class Login_SignUp {
 
